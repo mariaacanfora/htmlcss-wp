@@ -97,6 +97,7 @@ nav ul li a:hover{
     top: 0;
     bottom: 0;
     right: 0;
+    z-index: 1;
 }
 
 .hero-section{
@@ -113,8 +114,9 @@ nav ul li a:hover{
     position: absolute;
     bottom: 55px;
     left: 50px;
-    color: white;
+    color: rgb(231, 231, 231);
     font-size: 15px;
+    z-index: 2;
 }
 
 .thin-and-high{
